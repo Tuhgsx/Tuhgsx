@@ -48,28 +48,6 @@ Em breve, esta seção contará com projetos desenvolvidos durante minha jornada
 
 ---
 
-## 📊 GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&hide_border=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&locale=pt-br" />
-</p>
-
----
-
-## 🌐 Contato
-
-<p align="left">
-  <a href="SEU_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  <a href="SEU_DISCORD">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>“Sempre aprendendo, sempre evoluindo.”</i>
 </p>
