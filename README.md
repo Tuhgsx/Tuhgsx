@@ -1,9 +1,14 @@
-# Olá, eu sou Artur Stori 👋
+<h1>Olá, eu sou SEU_NOME 👋</h1>
 
-### 🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor em formação | 🇧🇷 Brasil
+---
 
-Sou estudante de **Ciência da Computação**, interessado em desenvolvimento de software e tecnologia.
-Atualmente estou aprimorando meus conhecimentos em diferentes linguagens, frameworks e ferramentas, buscando transformar o aprendizado em projetos práticos.
+### 🎓 Sobre mim
+
+💻 Estudante de [SEU CURSO] | Desenvolvedor em formação | 🇧🇷 Brasil
+
+Sou estudante de [curso/área], interessado em desenvolvimento
+de software e tecnologia. Atualmente estou aprimorando meus
+conhecimentos e buscando transformar o aprendizado em projetos práticos.
 
 ---
 
@@ -11,43 +16,42 @@ Atualmente estou aprimorando meus conhecimentos em diferentes linguagens, framew
 
 ### Linguagens
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-### Desenvolvimento Web & Frameworks
+### 🌐 Desenvolvimento Web e Frameworks
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,spring" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
 
-### Cloud & Ferramentas
+### ☁️ Nuvem e Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,git,github" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-* Ciência da Computação
-* Desenvolvimento de Software
-* Programação
-* Desenvolvimento Backend
-* Desenvolvimento Web
-* Computação em Nuvem
+- 💻 Programação
+- 🌐 Desenvolvimento Web
+- 🗄️ Banco de Dados
+- ⚙️ Desenvolvimento de Software
+- ☁️ Computação em Nuvem
 
 ---
 
 ## 🚀 Projetos
 
-Atualmente estou desenvolvendo meus primeiros projetos e construindo meu portfólio.
+Atualmente estou desenvolvendo meus primeiros projetos
+e construindo meu portfólio.
 
-Em breve, esta seção contará com projetos desenvolvidos durante minha jornada acadêmica e profissional.
+Em breve, esta seção estará repleta de projetos desenvolvidos
+durante minha jornada acadêmica e profissional.
 
 ---
 
-<p align="center">
-  <i>“Sempre aprendendo, sempre evoluindo.”</i>
-</p>
+> "Sempre aprendendo, sempre evoluindo."
