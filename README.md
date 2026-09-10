@@ -1,12 +1,12 @@
-<h1>Olá, eu sou SEU_NOME 👋</h1>
+<h1>Olá, eu sou Artur 👋</h1>
 
 ---
 
 ### 🎓 Sobre mim
 
-💻 Estudante de [SEU CURSO] | Desenvolvedor em formação | 🇧🇷 Brasil
+💻 Estudante de Ciência da Computação | Desenvolvedor em formação | 🇧🇷 Brasil
 
-Sou estudante de [curso/área], interessado em desenvolvimento
+Sou estudante de Ciência da Computação, interessado em desenvolvimento
 de software e tecnologia. Atualmente estou aprimorando meus
 conhecimentos e buscando transformar o aprendizado em projetos práticos.
 
